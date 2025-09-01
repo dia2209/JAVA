@@ -1,5 +1,4 @@
-public class first//yo it must be same as the file name// separate functions
-{
+public class first{
     public static void main(String[] args){
         //System.out.println("Hello ACE");
         int x=8;
@@ -11,7 +10,7 @@ public class first//yo it must be same as the file name// separate functions
         remainder(x,y);
     }
     static void add(int a, int b){
-            int sum=a+b;//student ki class  5 ita attributes and cnstructir 
+            int sum=a+b;
             System.out.println(sum);
     }
     static void subtract(int a, int b){
